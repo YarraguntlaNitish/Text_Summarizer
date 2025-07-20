@@ -27,7 +27,7 @@ To set up this text summarization app locally:
 * Clone the repository:
 
 ```bash
-git clone https://github.com/YarraguntlaNitish/Text_Summarizer.git
+git clone https://github.com/YarraguntlaNitish/LLM_Text_Summarizer
 
 cd precise-text-summarizer
 ```
